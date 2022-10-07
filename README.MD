@@ -1,10 +1,10 @@
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-cookies are informations containing recent internet activities that are stored in the browser in an sql format, as a means, it is normally stored in a location of the computer,
+cookies are informations containing recent internet activities that are stored in the browser in an sql format, as a means, it is normally stored in a location of the computer.
 
-which means if a user or an hacker gets your browser cookies, he can login into your session, without your knowledge.
+Which means if a user or an hacker gets your browser cookies, he can login into your session, without your knowledge.
 
-PLEASE NOTE: This PHP cookie stealer script is strickly for educational purposes, as to demonstration and show how you can actually gets cookies from users' browser and send the information to your email address and telegram bot
+PLEASE NOTE: This PHP cookie stealer script is strickly for educational purposes only, as to demonstrate and show how you can actually gets cookies from users' browser and send the information to your email address and telegram bot
 
 
 =================================================================INSTRUCTIONS=====================================================================
