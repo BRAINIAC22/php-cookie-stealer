@@ -1,4 +1,4 @@
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 cookies are informations containing recent internet activities that are stored in the browser in an sql format, as a means, it is normally stored in a location of the computer.
 
@@ -7,7 +7,7 @@ Which means if a user or an hacker gets your browser cookies, he can login into 
 PLEASE NOTE: This PHP cookie stealer script is strickly for educational purposes only, as to demonstrate and show how you can actually gets cookies from users' browser and send the information to your email address and telegram bot
 
 
-=================================================================INSTRUCTIONS=====================================================================
+============================================INSTRUCTIONS========================================================
 
 *Open cookie.php file
 
@@ -18,7 +18,7 @@ PLEASE NOTE: This PHP cookie stealer script is strickly for educational purposes
 *Open link.php replace the url "localhost" if you're uploading in cpanel, change it to your web url, or leave it if your're testing with xampp (localhost)
 
 
-================================================ HOW TO GET TELEGRAM ID AND BOT TOKEN ====================================================================
+================================== HOW TO GET TELEGRAM ID AND BOT TOKEN ===========================================
 
 *Open telegram and search for @GetRawData, click on start and copy you user-ID
 
